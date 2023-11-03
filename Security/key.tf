@@ -1,0 +1,4 @@
+#resource "aws_key_pair" "project7" {
+#  key_name   = "project7"
+#  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDIpJu3tS5QdymdawpYCQ9V6A04ljSNIRNRFlP/NEx52ywaRL086gSUp98RZQnCHdJ9amZ1iosy0ggiux9aaKe9337mzFgf820/w0E70ehY8EJLDIGoOg+pifyQHzgx8AU8Gt7oRqXhMSZwRzEFSrC4XZS/KnOWZTAOdfgZKTlXyHsVu7CerT3HsMcVBdQ3/hzvgMmSHqtUiILhtnQtHdyWiDEFXXrmTZYV2ldLjcWRaZF2bRNGZfOMzbXp5BQCOKvjrHqSO4vk6D864Z4CE+Lf7rBByGiELJU0AFuWTyP9xeIRDCw8UxXFaD+K0qJTk0fJi+upLz38uCqETG8kmpJ2pu1qatdLdjpgWFIxqidenGWe1uYRF9Pog3ja6KWhd7SlrvMzVVnhQzBLfizbf7qbQWzlchOttltaQ2jeyXWzlfw+RbIOInW037lznMC5haie6OXMiSa+u8iUIY6dHDDoxMGtU25IRPQlWJg57+vTvDP1tk2hjy0zfXlLz/6yy88= guest2@The-Mag-3.attlocal.net"
+#}
